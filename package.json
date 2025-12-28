@@ -1,0 +1,14 @@
+{
+  "name": "bsonx",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "mongodb": "^7.0.0"
+  }
+}
